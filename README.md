@@ -525,7 +525,9 @@ needs to be backwards compatible with v2 API"
 | Need to improve solution | `/reflexion:reflect` | For iterative refinement |
 
 Available from: https://cek.neolab.finance/plugins/reflexion
+
 ---
+
 
 ## Quick Reference
 
