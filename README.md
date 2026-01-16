@@ -1,4 +1,4 @@
-# RLM Workflow Guide
+# RLM Workflow Skill
 
 A practical guide to using the `/rlm-workflow` skill for complex problem solving.
 
@@ -539,4 +539,27 @@ Include:
 - How you'll know it's successful
 ```
 
+## Attribution                                                                                                                                           
+                                                                                                                                                           
+  The RLM skills suite is inspired by the Recursive Language Models paper:                                                                                 
+                                                                                                                                                           
+  > **Recursive Language Models**                                                                                                                          
+  > Alex L. Zhang, Tim Kraska, Omar Khattab                                                                                                                
+  > arXiv:2512.24601, 2025                                                                                                                                 
+  > https://arxiv.org/abs/2512.24601                                                                                                                       
+                                                                                                                                                           
+  The original RLM implementation is available at [github.com/alexzhang13/rlm](https://github.com/alexzhang13/rlm).                                        
+                                                                                                                                                           
+  BibTeX (for formal citation)                                                                                                                             
+```
+@misc{zhang2025recursivelanguagemodels,
+      title={Recursive Language Models}, 
+      author={Alex L. Zhang and Tim Kraska and Omar Khattab},
+      year={2025},
+      eprint={2512.24601},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2512.24601}, 
+}
+```
 The skill handles the rest: distill → decompose → solve → synthesize → verify → iterate.
